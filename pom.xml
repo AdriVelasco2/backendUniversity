@@ -86,7 +86,7 @@
             </goals>
             <configuration>
               <projectName>prueba</projectName>
-              <outputDirectory>src/test/resources/cucumber-reports/</outputDirectory>
+              <outputDirectory>src/test/resources/</outputDirectory>
               <inputDirectory>${project.build.directory}</inputDirectory>
               <jsonFiles>
                 <param>cucumber.json</param>
